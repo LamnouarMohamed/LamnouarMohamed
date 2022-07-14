@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnouarmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="lamnouarmohamed" /> </p>
 
-- 🔭 I’m currently working on **Multiple Object Tracking**
+- 🔭 I’m currently working on **Multiple Object Tracking.**
 
 - 🌱 I’m currently learning **Pytorch on depth.**
 
-- 👯 I’m looking to collaborate on **any Project relate to AI using Machine Learning, Deep Learning, and Computer Vision**
+- 👯 I’m looking to collaborate on **any Project relate to AI using Machine Learning, Deep Learning, and Computer Vision.**
 
 - 💬 Ask me about **Machine Leanring, Deep Leanring, Computer Vision, Pytorch, Python, Algorithms, C, Architecture of Code.**
+
+- 🥅 2022 Goals: **Contribute to Open Source projects.**
 
 - 📫 How to reach me **mohamedlamnaouar2015@gmail.com**
 
