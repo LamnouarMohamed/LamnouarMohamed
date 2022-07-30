@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnouarmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="lamnouarmohamed" /> </p>
 
-- 🔭 I’m currently working on **Multiple Object Tracking.**
+- 🔭 I’m currently working on **Multiple Object Tracking, Object Detection, Person Re-Identification, Stereo Vision, Kalman Filter, Graphs.**
 
 - 🌱 I’m currently learning **Pytorch on depth.**
 
