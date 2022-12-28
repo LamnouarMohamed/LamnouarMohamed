@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Leanring, Deep Leanring, Computer Vision, Pytorch, Python, Algorithms, C, Architecture of Code.**
 
-- 🥅 2022 Goals: **Contribute to Open Source projects.**
+- 🥅 2023 Goals: **Contribute to Open Source projects.**
 
 - 📫 How to reach me **mohamedlamnaouar2015@gmail.com**
 
