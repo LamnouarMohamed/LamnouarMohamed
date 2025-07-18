@@ -4,7 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamnouarmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="lamnouarmohamed" /> </p>
 
-- 🔭 I’m currently working on **Multiple Object Tracking, Object Detection, Person Re-Identification, Stereo Vision, Kalman Filter, Graphs.**
+  - ★ : limited experience, ★★ : intermediate experience, ★★★ : deep experience, 𝟢𝟢𝟢 : zero experience.
+
+- 🔭 I have some experience as a Data Engineer : Airflow(★★), Python(★★★), Dagster(★★), SQL(★★★), Spark (★).
+
+- 🔭 I have some experience as a Data Analyst : Tableau(★★), Python(★★★)).
+
+- 🔭 I have some experience as a Back End Developer with Python Analyst : Django Only part Model (★★★), Django Rest Framework (★★★), Celery (★★), Playwright for scraping (★★★) .
+
+- 🔭 I have some experience as a Data Scientist : Computer Vision (★★★), Python(★★★), Mlflow(★★★), Pytorch(★★★), Pandas (★★★), Numpy (★★★), Sckit-learn(★★★), LLM (★), RAG (𝟢𝟢𝟢), Vibe Coding (𝟢𝟢𝟢), LongChain (𝟢𝟢𝟢), LongGraph (𝟢𝟢𝟢).
+
+- 🔭 Some Topic I have worked before as a Computer Vision Engineer: **Multiple Object Tracking, Object Detection, Person Re-Identification, Stereo Vision, Kalman Filter, Graphs.**
 
 - 🌱 I’m currently learning **Pytorch on depth.**
 
@@ -12,7 +22,7 @@
 
 - 💬 Ask me about **Machine Leanring, Deep Leanring, Computer Vision, Pytorch, Python, Algorithms, C, Architecture of Code.**
 
-- 🥅 2023 Goals: **Contribute to Open Source projects.**
+- 🥅 2025 Goals: **Contribute to Open Source projects.**
 
 - 📫 How to reach me **mohamedlamnaouar2015@gmail.com**
 
