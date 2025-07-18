@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Lamnouar</h1>
+<h1 align="center">Hi 👋, I'm MLR</h1>
 <h3 align="center">A passionate Computer Vision from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I have some experience as a Data Engineer : Airflow(★★), Python(★★★), Dagster(★★), SQL(★★★), Spark (★).
 
-- 🔭 I have some experience as a Data Analyst : Tableau(★★), Python(★★★)).
+- 🔭 I have some experience as a Data Analyst : Tableau(★★), Python(★★★).
 
 - 🔭 I have some experience as a Back End Developer with Python Analyst : Django Only part Model (★★★), Django Rest Framework (★★★), Celery (★★), Playwright for scraping (★★★) .
 
